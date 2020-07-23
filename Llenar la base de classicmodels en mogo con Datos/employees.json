@@ -1,0 +1,505 @@
+[
+  {
+    "_id": {"$oid": "5f18fe2c97e8a377e040bada"},
+    "email": "dmurphy@classicmodelcars.com",
+    "employeesNumber": 1002,
+    "extension": "x5800",
+    "firstName": "Diane",
+    "jobTitle": "President",
+    "lastName": "Murphy",
+    "offices": [
+      {
+        "officeCode": 7,
+        "city": "London",
+        "phone": "+44 20 7877 2041",
+        "addressLine1": "25 Old Broad Street",
+        "country": "UK",
+        "territory": "EMEA"
+      }
+    ]
+  },
+  {
+    "_id": {"$oid": "5f18fe2c97e8a377e040badb"},
+    "email": "mpatterso@classicmodelcars.com",
+    "employeesNumber": 1056,
+    "extension": "x4611",
+    "firstName": "Mary",
+    "jobTitle": "VP Sales",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1002
+  },
+  {
+    "_id": {"$oid": "5f18fe2c97e8a377e040badc"},
+    "email": "jfirrelli@classicmodelcars.com",
+    "employeesNumber": 1076,
+    "extension": "x9273",
+    "firstName": "Jeff",
+    "jobTitle": "VP Marketing",
+    "lastName": "Firrelli",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1002
+  },
+  {
+    "_id": {"$oid": "5f18fe2c97e8a377e040badd"},
+    "email": "wpatterson@classicmodelcars.com",
+    "employeesNumber": 1088,
+    "extension": "x4871",
+    "firstName": "William",
+    "jobTitle": "Sales Manager (APAC)",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18fe2c97e8a377e040bade"},
+    "email": "gbondur@classicmodelcars.com",
+    "employeesNumber": 1102,
+    "extension": "x5408",
+    "firstName": "Gerard",
+    "jobTitle": "Sale Manager (EMEA)",
+    "lastName": "Bondur",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18fe2d97e8a377e040badf"},
+    "email": "abow@classicmodelcars.com",
+    "employeesNumber": 1143,
+    "extension": "x5428",
+    "firstName": "Anthony",
+    "jobTitle": "Sales Manager (NA)",
+    "lastName": "Bow",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18fe2d97e8a377e040bae0"},
+    "email": "ljennings@classicmodelcars.com",
+    "employeesNumber": 1165,
+    "extension": "x3291",
+    "firstName": "Leslie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Jennings",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2d97e8a377e040bae1"},
+    "email": "lthompson@classicmodelcars.com",
+    "employeesNumber": 1166,
+    "extension": "x4065",
+    "firstName": "Leslie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Thompson",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2e97e8a377e040bae2"},
+    "email": "jfirrelli@classicmodelcars.com",
+    "employeesNumber": 1188,
+    "extension": "x2173",
+    "firstName": "Julie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Firrelli",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2e97e8a377e040bae3"},
+    "email": "spatterson@classicmodelcars.com",
+    "employeesNumber": 1216,
+    "extension": "x4334",
+    "firstName": "Steve",
+    "jobTitle": "Sales Rep",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2e97e8a377e040bae4"},
+    "email": "ftseng@classicmodelcars.com",
+    "employeesNumber": 1286,
+    "extension": "x2248",
+    "firstName": "Foon Yue",
+    "jobTitle": "Sales Rep",
+    "lastName": "Tseng",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2e97e8a377e040bae5"},
+    "email": "gvanauf@classicmodelcars.com",
+    "employeesNumber": 1323,
+    "extension": "x4102",
+    "firstName": "George",
+    "jobTitle": "Sales Rep",
+    "lastName": "Vanauf",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18fe2f97e8a377e040bae6"},
+    "email": "lbondur@classicmodelcars.com",
+    "employeesNumber": 1337,
+    "extension": "x6493",
+    "firstName": "Loui",
+    "jobTitle": "Sales Rep",
+    "lastName": "Bondur",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18fe3097e8a377e040bae7"},
+    "email": "ghernande@classicmodelcars.com",
+    "employeesNumber": 1370,
+    "extension": "x2028",
+    "firstName": "Gerard",
+    "jobTitle": "Sales Rep",
+    "lastName": "Hernandez",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18fe3097e8a377e040bae8"},
+    "email": "pcastillo@classicmodelcars.com",
+    "employeesNumber": 1401,
+    "extension": "x2759",
+    "firstName": "Pamela",
+    "jobTitle": "Sales Rep",
+    "lastName": "Castillo",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18fe3097e8a377e040bae9"},
+    "email": "lbott@classicmodelcars.com",
+    "employeesNumber": 1501,
+    "extension": "x2311",
+    "firstName": "Larry",
+    "jobTitle": "Sales Rep",
+    "lastName": "Bott",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18fe3097e8a377e040baea"},
+    "email": "bjones@classicmodelcars.com",
+    "employeesNumber": 1504,
+    "extension": "x102",
+    "firstName": "Barry",
+    "jobTitle": "Sales Rep",
+    "lastName": "Jones",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18fe3097e8a377e040baeb"},
+    "email": "afixter@classicmodelcars.com",
+    "employeesNumber": 1611,
+    "extension": "x101",
+    "firstName": "Andy",
+    "jobTitle": "Sales Rep",
+    "lastName": "Fixter",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18fe3197e8a377e040baec"},
+    "email": "pmarsh@classicmodelcars.com",
+    "employeesNumber": 1612,
+    "extension": "x102",
+    "firstName": "Peter",
+    "jobTitle": "Sales Rep",
+    "lastName": "Marsh",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18fe3197e8a377e040baed"},
+    "email": "tking@classicmodelcars.com",
+    "employeesNumber": 1619,
+    "extension": "x103",
+    "firstName": "Tom",
+    "jobTitle": "Sales Rep",
+    "lastName": "King",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18fe3197e8a377e040baee"},
+    "email": "mnishi@classicmodelcars.com",
+    "employeesNumber": 1621,
+    "extension": "x101",
+    "firstName": "Mami",
+    "jobTitle": "Sales Rep",
+    "lastName": "Nishi",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18fe3197e8a377e040baef"},
+    "email": "ykato@classicmodelcars.com",
+    "employeesNumber": 1625,
+    "extension": "x102",
+    "firstName": "Yoshimi",
+    "jobTitle": "Sales Rep",
+    "lastName": "Kato",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1621
+  },
+  {
+    "_id": {"$oid": "5f18fe3297e8a377e040baf0"},
+    "email": "mgerard@classicmodelcars.com",
+    "employeesNumber": 1702,
+    "extension": "x2312",
+    "firstName": "Martin",
+    "jobTitle": "Sales Rep",
+    "lastName": "Gerard",
+    "offices": [
+      {
+        "officeCode": 3,
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      }
+    ],
+    "reports": 1102
+  }
+]
